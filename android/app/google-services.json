@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548906212262",
+    "project_id": "test-store2",
+    "storage_bucket": "test-store2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548906212262:android:e9155253ccbe66bb0b8d67",
+        "android_client_info": {
+          "package_name": "com.example.gstore_official"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwVzI9a1lN-N4uVFdnJwh4Lz-_lpCefJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
